@@ -62,23 +62,23 @@ This was the kanban board a the beggining of the project
 
 ## Authors
 
+### 👤 Frank
+
+- GitHub: [@fabianofrank](https://github.com/fabianofrank)
+- Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
+- LinkedIn: [@fabianofrank](https://www.linkedin.com/in/fabianofrank/)
+
 ### 👤 Jose
 
 - GitHub: [@jr-cast](https://github.com/jr-cast)
 - Twitter: [@josercastanos](https://twitter.com/josercastanos)
 - LinkedIn: [@jr-cast](https://linkedin.com/in/jr-cast)
 
-### 👤 Hector Torres
+### 👤 Hector
 
 - GitHub: [@HectorTorres](https://github.com/HectorTorresE)
 - Twitter: [@HectorT](https://twitter.com/HectorT00406915)
 - LinkedIn: [@Hectorjte](https://www.linkedin.com/in/hectorjte/)
-
-### 👤 Fabiano Frank
-
-- GitHub: [@fabianofrank](https://github.com/fabianofrank)
-- Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
-- LinkedIn: [@fabianofrank](https://www.linkedin.com/in/fabianofrank/)
 
 ## 🤝 Contributing
 
