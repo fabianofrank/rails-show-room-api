@@ -1,8 +1,8 @@
-# ByteCar API
+# Showroom API
 
 ![image](https://user-images.githubusercontent.com/58822719/194433219-379f891c-8a17-4f30-8046-746035d01dea.png)
 
-This is the back-end API for ByteCar, an app in which you can test drive a car.
+This is the back-end API for an app in which you can test drive a car.
 
 - Sign up and sign in to access the app.
 - Choose from our list of electric car.
@@ -13,11 +13,10 @@ This is the back-end API for ByteCar, an app in which you can test drive a car.
 
 The API has endpoints for users / providers / reservations / skills / password recovery.
 
-Read the complete documentation [here]().
+### [API Documentation](https://office-booking.herokuapp.com/api-docs/index.html)
 
-## UI Repo
+### [UI Repository](https://github.com/fabianofrank/react-show-room-ui)
 
-Check the UI of this App [here](https://github.com/jr-cast/bytecar).
 
 ## Built With
 
@@ -48,7 +47,6 @@ To get a local copy up and running follow these simple example steps.
 
 [Live UI]()
 
-[API Link]()
 
 ## Kanban Board
 
