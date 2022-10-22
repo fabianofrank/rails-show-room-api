@@ -19,7 +19,7 @@ default: &default
   encoding: unicode
   # username: postgres
   # password: 2726
-  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  # pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
 
 development:
   <<: *default
@@ -82,5 +82,5 @@ test:
 production:
   <<: *default
   database: showroom_api_production
-  username: showroom
+  # username: showroom
   # password: 2726
