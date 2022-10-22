@@ -15,7 +15,7 @@ The API has endpoints for users / providers / reservations / skills / password r
 
 ### [API Documentation](https://office-booking.herokuapp.com/api-docs/index.html)
 
-### [UI Repository](https://github.com/fabianofrank/react-show-room-ui)
+### [UI Repository](https://github.com/fabianofrank/showroom-ui)
 
 
 ## Built With
