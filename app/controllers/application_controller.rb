@@ -26,7 +26,7 @@ class ApplicationController < ActionController::API
   def current_user
     return nil unless jwt_decoded
 
-    user_id = jwt_decoded[0]['user_id']
+    user_id = jwt_decoded[0]['id']
     @current_user = User.find_by(id: user_id)
   end
 
